@@ -9,7 +9,7 @@
     "dependencies": {
         "@aws-sdk/client-secrets-manager": "^3.137.0",
         "@aws-sdk/rds-signer": "^3.121.0",
-        "aws-sdk": "^2.1152.0",
+        "aws-sdk": "^2.1354.0",
         "pg": "^8.7.3"
     },
     "scripts": {
