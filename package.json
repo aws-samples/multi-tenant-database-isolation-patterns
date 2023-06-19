@@ -24,7 +24,7 @@
   "dependencies": {
     "@aws-sdk/rds-signer": "^3.351.0",
     "@aws-sdk/client-secrets-manager": "^3.350.0",
-    "aws-cdk-lib": "2.45.0",
+    "aws-cdk-lib": "2.80.0",
     "constructs": "^10.0.0",
     "pg": "^8.7.3",
     "source-map-support": "^0.5.16"
