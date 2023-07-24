@@ -7,7 +7,7 @@
     "author": "SAM CLI",
     "license": "MIT",
     "dependencies": {
-        "@aws-sdk/rds-signer": "^3.351.0",
+        "@aws-sdk/rds-signer": "^3.370.0",
         "aws-sdk": "^2.1354.0",
         "pg": "^8.7.3"
     },
